@@ -1,0 +1,98 @@
+// BACKAND ENDPOINT https://api.backand.com:8078/1/objects/day?pageSize=20&pageNumber=1&deep=true
+//BACKAND API TOken: 93af5a2c-4af5-4168-aba5-4ffe2cde10ee
+[{
+  "monday": {
+    "name": "Monday",
+    "slots": {
+      "900": {
+        "time": "9:00am",
+        "booked": false
+      },
+      "0110": {
+       "time": "11:00am",
+        "booked": false
+      },
+      "100": {
+        "time": "1:00pm",
+        "booked": false
+      },
+      "300": {
+        "time": "3:00pm",
+        "booked": false
+      },
+      "500": {
+        "time": "5:00pm",
+        "booked": false
+      },
+      "700": {
+        "time": "7:00pm",
+        "booked": false
+      }
+    }
+  }
+  },
+
+
+{
+
+"tuesday": {
+   "name": "Tuesday",
+    "slots": {
+      "900": {
+        "time": "9:00am",
+        "booked": false
+      },
+      "0110": {
+        "time": "11:00am",
+        "booked": false
+      },
+      "100": {
+        "time": "1:00pm",
+        "booked": false
+      },
+      "300": {
+        "time": "3:00pm",
+        "booked": false
+      },
+      "500": {
+        "time": "5:00pm",
+        "booked": false
+      },
+      "700": {
+        "time": "7:00pm",
+        "booked": false
+      }
+    }
+}
+},
+  {"wednesday": {
+    "name": "Wednesday",
+    "slots": {
+      "900": {
+        "time": "9:00am",
+        "booked": false
+      },
+      "0110": {
+        "time": "11:00am",
+        "booked": false
+      },
+      "100": {
+        "time": "1:00pm",
+        "booked": false
+      },
+      "300": {
+        "time": "3:00pm",
+        "booked": false
+      },
+      "500": {
+        "time": "5:00pm",
+        "booked": false
+      },
+      "700": {
+        "time": "7:00pm",
+        "booked": false
+      }
+    }
+  }
+}
+]

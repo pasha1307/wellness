@@ -1,0 +1,17 @@
+<div class="container-fluid" style="margin-top: 65px;">
+   <col-md-5>
+      <div class="panel-default" ng-repeat="item in data| filter: {id: itemId}">
+       <div class="panel-title">
+         <h3>{{item.name}}</h3>
+       </div>
+       <div class="panel-body">
+       <p>{{item.detail}}</p>
+       <p ng-repeat="b in item.specs">
+          <span>{{b.time}}</span>
+          <span>{{b.price}}</span>
+       </p>
+
+       </div>
+        </div>
+   </col-md-5>
+  </div>

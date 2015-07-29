@@ -1,0 +1,31 @@
+<div class="container-fluid" style="margin-top: 65px;">
+  <div>
+    <acme-navbar>
+      </div>
+
+  <div class="row">
+   <div class="col-xs-7 col-md-8 col-lg-8">
+      <div class="panel panel-default" ng-repeat="q in data">
+        <div class="panel-heading">
+          <a ng-href="#/items/{{q.id}}"><h3 class="panel-title">{{q.name}}</h3></a>
+        </div>
+        <check-list selected="q.selected" name="q.id" option="q.specs"></check-list>
+      </div>
+    </div>
+    <div class="col-xs-5 col-md-4 col-lg-4">
+      <div class="panel panel-primary" data-spy="affix" data-offset-top="40" ng-class="{'affix': scroll > 50, 'affix-top': scroll <= 50}">
+      <div class="panel-heading" style="background-color: green;">
+        <h3 class="title text-center">Total</h3>
+      </div>
+      <div class="panel-body">
+        <h2 class="text-center">$ {{total()}}</h2>
+        <div class="text-center"><a type="button" ui-sref="items.checkout" class="btn btn-danger">Checkout <span class="glyphicon glyphicon-shopping-cart"></span></a></div>
+      </div>
+      </div>
+      <div ui-view="checkout"></div>
+      <div ui-view="item"></div>
+
+    </div>
+    </div>
+    </div>
+<get-scroll scroll="scroll"></get-scroll>

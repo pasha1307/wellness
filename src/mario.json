@@ -1,0 +1,1676 @@
+[
+  {
+    "name":"a01",
+    "title":"Red Altar",
+    "year":2001,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a01.jpg",
+    "sold":"TRUE"
+  },
+  {
+    "name":"a02",
+    "title":"And the Galleon Arrived",
+    "year":2004,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a02.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a03",
+    "title":"Havana",
+    "year":2007,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a03.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a04",
+    "title":"Male and Female",
+    "year":2005,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a04.jpg",
+    "sold":"TRUE"
+  },
+  {
+    "name":"a05",
+    "title":"Seeing Red",
+    "year":2007,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a05.jpg",
+    "sold":"TRUE"
+  },
+  {
+    "name":"a06",
+    "title":"Red Cage",
+    "year":2008,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a06.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a07",
+    "title":"White Caged Rooster ",
+    "year":2003,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a07.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a08",
+    "title":"Caged rooster with White Wall",
+    "year":2003,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a08.jpg",
+    "sold":"TRUE"
+  },
+  {
+    "name":"a09",
+    "title":"Roosters' Fight",
+    "year":2001,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a09.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a10",
+    "title":"Black Cage on Red Background",
+    "year":2008,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a10.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a11",
+    "title":"Black Cage on Red Background",
+    "year":2008,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a11.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a12",
+    "title":"Black Cage on Red Background",
+    "year":2008,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a12.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a13",
+    "title":"Blue Cage at the Edge",
+    "year":2007,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a13.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a14",
+    "title":"Blue Cage at the Edge",
+    "year":2007,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a14.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a15",
+    "title":"Still Life in White",
+    "year":2000,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a15.jpg",
+    "sold":"TRUE"
+  },
+  {
+    "name":"a16",
+    "title":"Cloud Over Pink Sky",
+    "year":2010,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a16.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a17",
+    "title":"White Hurricane with Palms",
+    "year":2005,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a17.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a18",
+    "title":"Dark Hurricane",
+    "year":2005,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a18.jpg",
+    "sold":"TRUE"
+  },
+  {
+    "name":"a19",
+    "title":"Royal Poinciana Tree",
+    "year":2005,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a19.jpg",
+    "sold":"TRUE"
+  },
+  {
+    "name":"a20",
+    "title":"Santeria",
+    "year":2014,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a20.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a21",
+    "title":"Still Life in Reds and Blacks",
+    "year":2007,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a21.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a22",
+    "title":"Black Goat Head Still Life",
+    "year":2015,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a22.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a23",
+    "title":"Stormy Sky",
+    "year":2010,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a23.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a24",
+    "title":"Black Cloud over Pink Horizon",
+    "year":2010,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a24.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a25",
+    "title":"Black Mango",
+    "year":2009,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a25.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a26",
+    "title":"Rainbow before the Storm",
+    "year":2010,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a26.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a27",
+    "title":"Storm at Sunset",
+    "year":2010,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a27.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a28",
+    "title":"Storm at Sunset",
+    "year":2010,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a28.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a29",
+    "title":"Trying toFly",
+    "year":2006,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a29.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a30",
+    "title":"Yo el Maximo",
+    "year":2001,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a30.jpg",
+    "sold":"TRUE"
+  },
+  {
+    "name":"a31",
+    "title":"Cloud on Black Horizon",
+    "year":2010,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a31.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a32",
+    "title":"White Cloud over Stormy Sky",
+    "year":2010,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a32.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a33",
+    "title":"Goat with two Palm Fronds",
+    "year":2015,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a33.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a34",
+    "title":"The Good Bye",
+    "year":2014,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a34.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a35",
+    "title":"By the Sea",
+    "year":2000,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a35.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a36",
+    "title":"La Nin_a, la Pinta y la Santa Maria",
+    "year":2001,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a36.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a37",
+    "title":"Flying Kite before Coming Storm",
+    "year":2010,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a37.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a38",
+    "title":"Large Watermelon",
+    "year":2006,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a38.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a39",
+    "title":"In the Forest",
+    "year":1998,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a39.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a40",
+    "title":"The Surprise",
+    "year":2006,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a40.jpg",
+    "sold":"TRUE"
+  },
+  {
+    "name":"a41",
+    "title":"Cage with a Bull's Skull",
+    "year":2014,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a41.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a42",
+    "title":"Pink Cage",
+    "year":2014,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a42.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a43",
+    "title":"Havana No.1",
+    "year":2007,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a43.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a44",
+    "title":"The Guitar Player",
+    "year":2003,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a44.jpg",
+    "sold":"TRUE"
+  },
+  {
+    "name":"a45",
+    "title":"Three Bananas, one Horizon",
+    "year":2012,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a45.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a46",
+    "title":"White Wall, Small Cage",
+    "year":2009,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a46.jpg",
+    "sold":"TRUE"
+  },
+  {
+    "name":"a47",
+    "title":"Man with Easel",
+    "year":2009,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a47.jpg",
+    "sold":"TRUE"
+  },
+  {
+    "name":"a48",
+    "title":"Goat's Head on Brown Background",
+    "year":2014,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a48.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a49",
+    "title":"Large White Cage",
+    "year":2009,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a49.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"a50",
+    "title":"Painted Memories ",
+    "year":2008,
+    "size":"36\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/a50.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"b01",
+    "title":"Man and Palm Frond",
+    "year":2005,
+    "size":"48\" x 36\"",
+    "material":"oil on canvas",
+    "url":"assets/img/b01.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"b02",
+    "title":"Woman and Palm Frond",
+    "year":2005,
+    "size":"48\" x 36\"",
+    "material":"oil on canvas",
+    "url":"assets/img/b02.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"b03",
+    "title":"Woman and Palm Frond",
+    "year":2005,
+    "size":"48\" x 36\"",
+    "material":"oil on canvas",
+    "url":"assets/img/b03.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"b04",
+    "title":"Man and Rooster",
+    "year":2005,
+    "size":"48\" x 36\"",
+    "material":"oil on canvas",
+    "url":"assets/img/b04.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"b05",
+    "title":"Rooster on Table with Corn",
+    "year":2011,
+    "size":"48\" x 36\"",
+    "material":"oil on canvas",
+    "url":"assets/img/b05.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"b06",
+    "title":"Large Mango",
+    "year":2002,
+    "size":"48\" x 36\"",
+    "material":"oil on canvas",
+    "url":"assets/img/b06.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"b07",
+    "title":"Goat's Head with Palm Frond",
+    "year":1999,
+    "size":"48\" x 36\"",
+    "material":"oil on canvas",
+    "url":"assets/img/b07.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"b08",
+    "title":"Goat's Head on White",
+    "year":2000,
+    "size":"48\" x 36\"",
+    "material":"oil on canvas",
+    "url":"assets/img/b08.jpg",
+    "sold":"TRUE"
+  },
+  {
+    "name":"b09",
+    "title":"Goat's Head on Black",
+    "year":2000,
+    "size":"48\" x 36\"",
+    "material":"oil on canvas",
+    "url":"assets/img/b09.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"b10",
+    "title":"Black Rooster with Skull",
+    "year":2007,
+    "size":"48\" x 36\"",
+    "material":"oil on canvas",
+    "url":"assets/img/b10.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"b11",
+    "title":"Black Rooster ",
+    "year":2007,
+    "size":"48\" x 36\"",
+    "material":"oil on canvas",
+    "url":"assets/img/b11.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"b12",
+    "title":"Black Rooster on Yellow",
+    "year":2012,
+    "size":"48\" x 36\"",
+    "material":"oil on canvas",
+    "url":"assets/img/b12.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"b13",
+    "title":"White Goat's Head",
+    "year":2000,
+    "size":"48\" x 36\"",
+    "material":"oil on canvas",
+    "url":"assets/img/b13.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"b14",
+    "title":"Glaring Head",
+    "year":2000,
+    "size":"48\" x 36\"",
+    "material":"oil on canvas",
+    "url":"assets/img/b14.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"b15",
+    "title":"Goat's Head on Brown",
+    "year":2000,
+    "size":"48\" x 36\"",
+    "material":"oil on canvas",
+    "url":"assets/img/b15.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"b16",
+    "title":"Adam",
+    "year":2005,
+    "size":"48\" x 36\"",
+    "material":"oil on canvas",
+    "url":"assets/img/b16.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"b17",
+    "title":"Eve",
+    "year":2005,
+    "size":"48\" x 36\"",
+    "material":"oil on canvas",
+    "url":"assets/img/b17.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"b18",
+    "title":"Abstract Rooster",
+    "year":2005,
+    "size":"48\" x 36\"",
+    "material":"oil on canvas",
+    "url":"assets/img/b18.jpg",
+    "sold":"TRUE"
+  },
+  {
+    "name":"b19",
+    "title":"Large Fruit on Table",
+    "year":2005,
+    "size":"48\" x 36\"",
+    "material":"oil on canvas",
+    "url":"assets/img/b19.jpg",
+    "sold":"TRUE"
+  },
+  {
+    "name":"c01",
+    "title":"Rooster and Cross",
+    "year":1998,
+    "size":"24\" x 36\"",
+    "material":"oil on canvas",
+    "url":"assets/img/c01.jpg",
+    "sold":"TRUE"
+  },
+  {
+    "name":"c02",
+    "title":"Rooster and Cross",
+    "year":1998,
+    "size":"24\" x 36\"",
+    "material":"oil on canvas",
+    "url":"assets/img/c02.jpg",
+    "sold":"TRUE"
+  },
+  {
+    "name":"c03",
+    "title":"Spotted Rooster on Table",
+    "year":2009,
+    "size":"24\" x 36\"",
+    "material":"oil on canvas",
+    "url":"assets/img/c03.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"c04",
+    "title":"White Altar",
+    "year":1997,
+    "size":"24\" x 36\"",
+    "material":"oil on canvas",
+    "url":"assets/img/c04.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"c05",
+    "title":"White Palm Tree ",
+    "year":1999,
+    "size":"24\" x 36\"",
+    "material":"oil on canvas",
+    "url":"assets/img/c05.jpg",
+    "sold":"TRUE"
+  },
+  {
+    "name":"d01",
+    "title":"Ochu_n's Sunflowers",
+    "year":2008,
+    "size":"36\" x 24\"",
+    "material":"oil on canvas",
+    "url":"assets/img/d01.jpg",
+    "sold":"TRUE"
+  },
+  {
+    "name":"d02",
+    "title":"Royal Poinciana and Seed Pods",
+    "year":2008,
+    "size":"36\" x 24\"",
+    "material":"oil on canvas",
+    "url":"assets/img/d02.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"d03",
+    "title":"Two Red Hibiscus",
+    "year":2008,
+    "size":"36\" x 24\"",
+    "material":"oil on canvas",
+    "url":"assets/img/d03.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"d04",
+    "title":"Flamingo Flowers",
+    "year":2008,
+    "size":"36\" x 24\"",
+    "material":"oil on canvas",
+    "url":"assets/img/d04.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"d05",
+    "title":"Red Ginger, Black Leaves",
+    "year":2008,
+    "size":"36\" x 24\"",
+    "material":"oil on canvas",
+    "url":"assets/img/d05.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"d06",
+    "title":"Pineapple on Red Background",
+    "year":2013,
+    "size":"36\" x 24\"",
+    "material":"oil on canvas",
+    "url":"assets/img/d06.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"d07",
+    "title":"Maria C.",
+    "year":2015,
+    "size":"36\" x 24\"",
+    "material":"oil on canvas",
+    "url":"assets/img/d07.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"e01",
+    "title":"In the Name of God",
+    "year":2001,
+    "size":"30\" x 40\"",
+    "material":"oil on canvas",
+    "url":"assets/img/e01.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"e02",
+    "title":"Goat's Head with White Frond",
+    "year":2004,
+    "size":"30\" x 40\"",
+    "material":"oil on canvas",
+    "url":"assets/img/e02.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"e03",
+    "title":"Yellow Cage",
+    "year":2007,
+    "size":"30\" x 40\"",
+    "material":"oil on canvas",
+    "url":"assets/img/e03.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"e04",
+    "title":"Slice of Pumpkin",
+    "year":2004,
+    "size":"30\" x 40\"",
+    "material":"oil on canvas",
+    "url":"assets/img/e04.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"e05",
+    "title":"Still Life with Skull",
+    "year":2006,
+    "size":"30\" x 40\"",
+    "material":"oil on canvas",
+    "url":"assets/img/e05.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"e06",
+    "title":"Green Cage",
+    "year":2008,
+    "size":"30\" x 40\"",
+    "material":"oil on canvas",
+    "url":"assets/img/e06.jpg",
+    "sold":"TRUE"
+  },
+  {
+    "name":"e07",
+    "title":"Farewell No.2",
+    "year":2008,
+    "size":"30\" x 40\"",
+    "material":"oil on canvas",
+    "url":"assets/img/e07.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"e08",
+    "title":"Black Bull on Blue Background",
+    "year":2007,
+    "size":"30\" x 40\"",
+    "material":"oil on canvas",
+    "url":"assets/img/e08.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"e09",
+    "title":"Eye of the Hurricane",
+    "year":2006,
+    "size":"30\" x 40\"",
+    "material":"oil on canvas",
+    "url":"assets/img/e09.jpg",
+    "sold":"TRUE"
+  },
+  {
+    "name":"e10",
+    "title":"Rooster on White Background",
+    "year":2004,
+    "size":"30\" x 40\"",
+    "material":"oil on canvas",
+    "url":"assets/img/e10.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"e11",
+    "title":"The Snake Maja_",
+    "year":1997,
+    "size":"30\" x 40\"",
+    "material":"oil on canvas",
+    "url":"assets/img/e11.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"e12",
+    "title":"Tropical Still Life",
+    "year":2000,
+    "size":"30\" x 40\"",
+    "material":"oil on canvas",
+    "url":"assets/img/e12.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"e13",
+    "title":"Orange Cage",
+    "year":1998,
+    "size":"30\" x 40\"",
+    "material":"oil on canvas",
+    "url":"assets/img/e13.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"e14",
+    "title":"Orange Cage",
+    "year":1998,
+    "size":"30\" x 40\"",
+    "material":"oil on canvas",
+    "url":"assets/img/e14.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"e15",
+    "title":"Floating Cage",
+    "year":2009,
+    "size":"30\" x 40\"",
+    "material":"oil on canvas",
+    "url":"assets/img/e15.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"e16",
+    "title":"Bananas on Black Platter",
+    "year":2004,
+    "size":"30\" x 40\"",
+    "material":"oil on canvas",
+    "url":"assets/img/e16.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"e17",
+    "title":"Bunch of Five Bananas",
+    "year":2012,
+    "size":"30\" x 40\"",
+    "material":"oil on canvas",
+    "url":"assets/img/e17.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"e18",
+    "title":"Two Goat Heads",
+    "year":2011,
+    "size":"30\" x 40\"",
+    "material":"oil on canvas",
+    "url":"assets/img/e18.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"e19",
+    "title":"Two Goat Heads",
+    "year":2011,
+    "size":"30\" x 40\"",
+    "material":"oil on canvas",
+    "url":"assets/img/e19.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"e20",
+    "title":"Two Goat Heads",
+    "year":2011,
+    "size":"30\" x 40\"",
+    "material":"oil on canvas",
+    "url":"assets/img/e20.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"f01",
+    "title":"White Hibiscus",
+    "year":2013,
+    "size":"40\" x 30\"",
+    "material":"oil on canvas",
+    "url":"assets/img/f01.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"f02",
+    "title":"Mango on Black Table",
+    "year":1996,
+    "size":"40\" x 30\"",
+    "material":"oil on canvas",
+    "url":"assets/img/f02.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"f03",
+    "title":"Mango with Dots on Table",
+    "year":1996,
+    "size":"40\" x 30\"",
+    "material":"oil on canvas",
+    "url":"assets/img/f03.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"f04",
+    "title":"Mango Offering No.1",
+    "year":1996,
+    "size":"40\" x 30\"",
+    "material":"oil on canvas",
+    "url":"assets/img/f04.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"f05",
+    "title":"Moonlight",
+    "year":2002,
+    "size":"40\" x 30\"",
+    "material":"oil on canvas",
+    "url":"assets/img/f05.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"f06",
+    "title":"Ginger Flower with Califa Leaf",
+    "year":2008,
+    "size":"40\" x 30\"",
+    "material":"oil on canvas",
+    "url":"assets/img/f06.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"f07",
+    "title":"Mango Offering No.2",
+    "year":1996,
+    "size":"40\" x 30\"",
+    "material":"oil on canvas",
+    "url":"assets/img/f07.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"f08",
+    "title":"Red Cone Ginger ",
+    "year":2013,
+    "size":"40\" x 30\"",
+    "material":"oil on canvas",
+    "url":"assets/img/f08.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"f09",
+    "title":"Banana on Plate",
+    "year":2012,
+    "size":"40\" x 30\"",
+    "material":"oil on canvas",
+    "url":"assets/img/f09.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"g01",
+    "title":"Red Moon",
+    "year":2014,
+    "size":"22\" x 16\"",
+    "material":"oil on canvas",
+    "url":"assets/img/g01.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"g02",
+    "title":"White Hibiscus",
+    "year":2014,
+    "size":"22\" x 16\"",
+    "material":"oil on canvas",
+    "url":"assets/img/g02.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"g03",
+    "title":"Where to",
+    "year":2014,
+    "size":"22\" x 16\"",
+    "material":"oil on canvas",
+    "url":"assets/img/g03.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"g04",
+    "title":"Red Rooster",
+    "year":2014,
+    "size":"22\" x 16\"",
+    "material":"oil on canvas",
+    "url":"assets/img/g04.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"g05",
+    "title":"Red Frond",
+    "year":2014,
+    "size":"22\" x 16\"",
+    "material":"oil on canvas",
+    "url":"assets/img/g05.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"g06",
+    "title":"Red Snapper",
+    "year":2014,
+    "size":"22\" x 16\"",
+    "material":"oil on canvas",
+    "url":"assets/img/g06.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"g07",
+    "title":"Red Snapper",
+    "year":2014,
+    "size":"22\" x 16\"",
+    "material":"oil on canvas",
+    "url":"assets/img/g07.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"g08",
+    "title":"Growth",
+    "year":2014,
+    "size":"22\" x 16\"",
+    "material":"oil on canvas",
+    "url":"assets/img/g08.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"g09",
+    "title":"Spiny Lobster",
+    "year":2014,
+    "size":"22\" x 16\"",
+    "material":"oil on canvas",
+    "url":"assets/img/g09.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"g10",
+    "title":"Goat's Head",
+    "year":2014,
+    "size":"22\" x 16\"",
+    "material":"oil on canvas",
+    "url":"assets/img/g10.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"g11",
+    "title":"White Palm Tree ",
+    "year":2014,
+    "size":"22\" x 16\"",
+    "material":"oil on canvas",
+    "url":"assets/img/g11.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"g12",
+    "title":"White Hand",
+    "year":2014,
+    "size":"22\" x 16\"",
+    "material":"oil on canvas",
+    "url":"assets/img/g12.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"g13",
+    "title":"Pax Vobiscum",
+    "year":2014,
+    "size":"22\" x 16\"",
+    "material":"oil on canvas",
+    "url":"assets/img/g13.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h01",
+    "title":"Lobster #1",
+    "year":2014,
+    "size":"22\" x 28\"",
+    "material":"oil on canvas",
+    "url":"assets/img/h01.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h02",
+    "title":"Lobster #2",
+    "year":2014,
+    "size":"22\" x 28\"",
+    "material":"oil on canvas",
+    "url":"assets/img/h02.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h03",
+    "title":"Lobster #3",
+    "year":2014,
+    "size":"22\" x 28\"",
+    "material":"oil on canvas",
+    "url":"assets/img/h03.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h04",
+    "title":"Lobster #4",
+    "year":2014,
+    "size":"22\" x 28\"",
+    "material":"oil on canvas",
+    "url":"assets/img/h04.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h05",
+    "title":"Farewell #1",
+    "year":1999,
+    "size":"36\" x 40\"",
+    "material":"oil on canvas",
+    "url":"assets/img/h05.jpg",
+    "sold":"TRUE"
+  },
+  {
+    "name":"h06",
+    "title":"Approaching Storm #1",
+    "year":2010,
+    "size":"22\" x 28\"",
+    "material":"oil on canvas",
+    "url":"assets/img/h06.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h07",
+    "title":"Rooster on Red Background",
+    "year":2013,
+    "size":"20\" x 16\"",
+    "material":"oil on canvas",
+    "url":"assets/img/h07.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h08",
+    "title":"Still Life Fruit and Red Frame",
+    "year":1997,
+    "size":"29\" x 36\"",
+    "material":"oil on canvas",
+    "url":"assets/img/h08.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h09",
+    "title":"Bird of Paradise",
+    "year":2008,
+    "size":"24\" x 18\"",
+    "material":"oil on canvas",
+    "url":"assets/img/h09.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h10",
+    "title":"Adam",
+    "year":2014,
+    "size":"28\" x 22\"",
+    "material":"oil on canvas",
+    "url":"assets/img/h10.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h11",
+    "title":"Eve",
+    "year":2014,
+    "size":"28\" x 22\"",
+    "material":"oil on canvas",
+    "url":"assets/img/h11.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h12",
+    "title":"Columbus Coconut Tree",
+    "year":1993,
+    "size":"70\" x 52\"",
+    "material":"oil on canvas",
+    "url":"assets/img/h12.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h13",
+    "title":"Portrait in Grays",
+    "year":1962,
+    "size":"38\" x 22\"",
+    "material":"Oil on particle board",
+    "url":"assets/img/h13.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h14",
+    "title":"Pablo",
+    "year":2013,
+    "size":"35\" x 22\"",
+    "material":"oil on canvas",
+    "url":"assets/img/h14.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h15",
+    "title":"Isabelle and Eugenia",
+    "year":1979,
+    "size":"60\" x 48\"",
+    "material":"Oil on particle board",
+    "url":"assets/img/h15.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h16",
+    "title":"Isabelle and Pablo",
+    "year":1993,
+    "size":"43\" x 36\"",
+    "material":"Oil on particle board ",
+    "url":"assets/img/h16.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h17",
+    "title":"Eugenia",
+    "year":2007,
+    "size":"35\" x 22\"",
+    "material":"oil on canvas",
+    "url":"assets/img/h17.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h18",
+    "title":"Rooster on White Background",
+    "year":2008,
+    "size":"24\" x 18\"",
+    "material":"oil on canvas",
+    "url":"assets/img/h18.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h19",
+    "title":"Black Rooster on Red",
+    "year":2012,
+    "size":"20\" x 24\"",
+    "material":"oil on canvas",
+    "url":"assets/img/h19.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h20",
+    "title":"Caged Bird",
+    "year":2012,
+    "size":"20\" x 24\"",
+    "material":"oil on canvas",
+    "url":"assets/img/h20.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h21",
+    "title":"Large Hurricane",
+    "year":2005,
+    "size":"36\" x 40\"",
+    "material":"oil on canvas",
+    "url":"assets/img/h21.jpg",
+    "sold":"TRUE"
+  },
+  {
+    "name":"h22",
+    "title":"Scorpion on Red Background",
+    "year":2013,
+    "size":"20\" x 16\"",
+    "material":"oil on canvas",
+    "url":"assets/img/h22.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h23",
+    "title":"Adam",
+    "year":1993,
+    "size":"60\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/h23.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h24",
+    "title":"Eve",
+    "year":1993,
+    "size":"60\" x 48\"",
+    "material":"oil on canvas",
+    "url":"assets/img/h24.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h25",
+    "title":"Approaching Storm #2",
+    "year":2010,
+    "size":"22\" x 28\"",
+    "material":"oil on canvas",
+    "url":"assets/img/h25.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h26",
+    "title":"Approaching Storm #3",
+    "year":2010,
+    "size":"22\" x 28\"",
+    "material":"oil on canvas",
+    "url":"assets/img/h26.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h27",
+    "title":"Approaching Storm #4",
+    "year":2010,
+    "size":"22\" x 28\"",
+    "material":"oil on canvas",
+    "url":"assets/img/h27.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h28",
+    "title":"Rooster and Skull #1",
+    "year":2007,
+    "size":"8\" x 5\"",
+    "material":"Graphite on paper",
+    "url":"assets/img/h28.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h29",
+    "title":"Rooster and Skull #1",
+    "year":2007,
+    "size":"8\" x 5\"",
+    "material":"Graphite on paper",
+    "url":"assets/img/h29.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h30",
+    "title":"Bird and Skull ",
+    "year":2007,
+    "size":"8\" x 5\"",
+    "material":"Graphite on paper",
+    "url":"assets/img/h30.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h31",
+    "title":"The Hurricane Arrived",
+    "year":2005,
+    "size":"38\" x 84\"",
+    "material":"oil on canvas",
+    "url":"assets/img/h31.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h32",
+    "title":"Toddler",
+    "year":2014,
+    "size":"35\" x 22\"",
+    "material":"oil on canvas",
+    "url":"assets/img/h32.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h33",
+    "title":"Large Vase of Flowers",
+    "year":2008,
+    "size":"36\" x 60\"",
+    "material":"oil on canvas",
+    "url":"assets/img/h33.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h34",
+    "title":"Farewell to All That",
+    "year":1999,
+    "size":"36\" x 40\"",
+    "material":"oil on canvas",
+    "url":"assets/img/h34.jpg",
+    "sold":"TRUE"
+  },
+  {
+    "name":"h35",
+    "title":"Skull on White Shroud",
+    "year":2002,
+    "size":"24\" x 30\"",
+    "material":"oil on canvas",
+    "url":"assets/img/h35.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h36",
+    "title":"Cockroach",
+    "year":2014,
+    "size":"20\" x 16\"",
+    "material":"oil on canvas",
+    "url":"assets/img/h36.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"h37",
+    "title":"Mario Torroella",
+    "year":2015,
+    "size":"28\" x 22\"",
+    "material":"oil on canvas",
+    "url":"assets/img/h37.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"j01",
+    "title":"Blue Cage (Triptych)",
+    "year":2008,
+    "size":"36\" x 24\"",
+    "material":"oil on canvas",
+    "url":"assets/img/j01.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"j02",
+    "title":"Red Cage  (Triptych)",
+    "year":2008,
+    "size":"36\" x 24\"",
+    "material":"oil on canvas",
+    "url":"assets/img/j02.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"j03",
+    "title":"Sad Trpics (Triptych)",
+    "year":2007,
+    "size":"36\" x 24\"",
+    "material":"oil on canvas",
+    "url":"assets/img/j03.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"k01",
+    "title":"Red Wall #1",
+    "year":null,
+    "size":"18\" x 24\"",
+    "material":"ink on paper",
+    "url":"assets/img/k01.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"k02",
+    "title":"Red Wall #2",
+    "year":null,
+    "size":"18\" x 24\"",
+    "material":"ink on paper",
+    "url":"assets/img/k02.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"k03",
+    "title":"Red Wall #3",
+    "year":null,
+    "size":"18\" x 24\"",
+    "material":"ink on paper",
+    "url":"assets/img/k03.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"k04",
+    "title":"The Encounter",
+    "year":null,
+    "size":"18\" x 24\"",
+    "material":"ink on paper",
+    "url":"assets/img/k04.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"k05",
+    "title":"Yellow Wall",
+    "year":null,
+    "size":"18\" x 24\"",
+    "material":"ink on paper",
+    "url":"assets/img/k05.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"k06",
+    "title":"Plate of Bananas",
+    "year":null,
+    "size":"18\" x 24\"",
+    "material":"ink on paper",
+    "url":"assets/img/k06.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"k07",
+    "title":"Infanta #1",
+    "year":null,
+    "size":"18\" x 24\"",
+    "material":"ink on paper",
+    "url":"assets/img/k07.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"k08",
+    "title":"Infanta #2",
+    "year":null,
+    "size":"18\" x 24\"",
+    "material":"ink on paper",
+    "url":"assets/img/k08.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"k09",
+    "title":"Infanta #3",
+    "year":null,
+    "size":"18\" x 24\"",
+    "material":"ink on paper",
+    "url":"assets/img/k09.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"k10",
+    "title":"Infanta #4",
+    "year":null,
+    "size":"18\" x 24\"",
+    "material":"ink on paper",
+    "url":"assets/img/k10.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"k11",
+    "title":"Chivo que Rompe Tambor #1",
+    "year":null,
+    "size":"18\" x 24\"",
+    "material":"ink on paper",
+    "url":"assets/img/k11.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"k12",
+    "title":"Chivo que Rompe Tambor #2",
+    "year":null,
+    "size":"18\" x 24\"",
+    "material":"ink on paper",
+    "url":"assets/img/k12.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"k13",
+    "title":"Pineapple",
+    "year":null,
+    "size":"18\" x 24\"",
+    "material":"ink on paper",
+    "url":"assets/img/k13.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"k14",
+    "title":"Bananas",
+    "year":null,
+    "size":"18\" x 24\"",
+    "material":"ink on paper",
+    "url":"assets/img/k14.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"l01",
+    "title":"Goat #1",
+    "year":null,
+    "size":"24\" x 18\"",
+    "material":"ink on paper",
+    "url":"assets/img/l01.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"l02",
+    "title":"Goat #2",
+    "year":null,
+    "size":"24\" x 18\"",
+    "material":"ink on paper",
+    "url":"assets/img/l02.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"l03",
+    "title":"Goat #3",
+    "year":null,
+    "size":"24\" x 18\"",
+    "material":"ink on paper",
+    "url":"assets/img/l03.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"l04",
+    "title":"Skull",
+    "year":null,
+    "size":"24\" x 18\"",
+    "material":"ink on paper",
+    "url":"assets/img/l04.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"l05",
+    "title":"Caged Rooster",
+    "year":null,
+    "size":"24\" x 18\"",
+    "material":"ink on paper",
+    "url":"assets/img/l05.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"l06",
+    "title":"Still Life with Mango",
+    "year":null,
+    "size":"24\" x  18\"",
+    "material":"ink on paper",
+    "url":"assets/img/l06.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"l07",
+    "title":"Red Wall with Green Branch",
+    "year":null,
+    "size":"24\" x 18\"",
+    "material":"ink on paper",
+    "url":"assets/img/l07.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"l08",
+    "title":"Observing Eye #1 ",
+    "year":null,
+    "size":"24\" x 18\"",
+    "material":"ink on paper",
+    "url":"assets/img/l08.jpg",
+    "sold":"FALSE"
+  },
+  {
+    "name":"l09",
+    "title":"Observing Eye #2",
+    "year":null,
+    "size":"24\" x 18\"",
+    "material":"ink on paper",
+    "url":"assets/img/l09.jpg",
+    "sold":"FALSE"
+  }
+]

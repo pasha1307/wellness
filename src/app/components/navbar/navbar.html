@@ -1,0 +1,24 @@
+<nav class="navbar navbar-fixed-top navbar-inverse" style="font-family: 'Baumans', cursive;">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href=" ">
+        <span class="glyphicon glyphicon-home"></span> Wellness Centre
+      </a>
+    </div>
+
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-6">
+      <ul class="nav navbar-nav">
+        <li ng-class="{active: isActive('/')}"><a ui-sref="home">HOME</a></li>
+        <li ng-class="{active: isActive('/items')}"><a ui-sref="items">DATA</a></li>
+        <li ng-class="{active: isActive('/items/:{{item}}')}"><a ui-sref="items.item"></a></li>
+        <li ng-class="{active: isActive('/calendar')}"><a ui-sref="calendar">CALENDAR</a></li>
+      </ul>
+
+<!--
+      <ul class="nav navbar-nav navbar-right acme-navbar-text">
+        <li>Application was created {{ vm.relativeDate }}.</li>
+      </ul>
+-->
+    </div>
+  </div>
+</nav>

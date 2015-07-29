@@ -1,0 +1,36 @@
+<div class="container-fluid">
+
+  <div>
+    <acme-navbar/>
+  </div>
+
+    <div class="jumbotron text-center" style="background:url(assets/images/hb.jpg) no-repeat; background-position: center center; background-size: cover;">
+      <h1 class="text-left" style="font-weight: 200;">Welcome!</h1>
+    <p class="lead text-left">
+      <img src="assets/images/yeoman.png" alt="I'm Yeoman" ng-class="main.classAnimation" class="animated"><br>
+      Wellness App
+    </p>
+    <p class="animated" ng-class="main.classAnimation">
+<!--      <button type="button" class="btn btn-lg btn-success" ng-click=" ">Welcome</button>-->
+    </p>
+    <h3>We offer the following services: </h3>
+    <p>
+    <acme-malarkey extra-values="['Sport Massage', 'Pure Breath Facial', 'Back and Neck Massage', 'and more..']" />
+    </p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi, soluta temporibus officiis minima consequatur, vitae corporis labore eum neque eius illo mollitia et cum quisquam corrupti suscipit deleniti, nam alias.</p>
+  </div>
+
+  <div class="row">
+    <div class="col-sm-6 col-md-4" ng-repeat="awesomeThing in main.awesomeThings | orderBy:'rank'| limitTo: 6">
+      <div class="thumbnail">
+        <img class="pull-right" ng-src="assets/images/{{ awesomeThing.logo }}" alt="{{ awesomeThing.title }}">
+        <div class="caption">
+          <h3>{{ awesomeThing.name }}</h3>
+          <p>{{ awesomeThing.detail }}</p>
+          <p><a ng-href="{{awesomeThing.url}}">{{ awesomeThing.specs }}</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>

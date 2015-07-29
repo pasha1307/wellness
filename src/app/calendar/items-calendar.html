@@ -1,0 +1,64 @@
+<div class="container">
+<div><acme-navbar></div>
+  <div class="page-header text-center">
+    <h1>Schedule City</h1>
+  </div>
+  <div class="jumbotron">
+    <form ng-submit="addTodo()">
+      <input class="form-control" placeholder="What needs to be done?" ng-model="newTodo" autofocus>
+    </form>
+    <section>
+      <h3>All things todo</h3>
+      <p>Double-click to edit a todo</p>
+      <div class="list-group">
+        <div ng-repeat="todo in todos" class="list-group-item">
+          <div class="view">
+            <label>{{todo.title}}</label>
+            <button class="btn btn-danger pull-right" ng-click="removeTodo(todo)">X</button>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <!-- were doing one day with 1 time slot for simplicity -->
+  <!-- we'll use angular's ng-repeat in a bit to get the other days and times -->
+  <div class="row times">
+
+    <div class="col-xs-4 text-center">
+      <div ng-repeat="todo in todos" class="list-group-item">
+        <div class="view">
+          <label>{{todo.title}}</label>
+          <button class="btn btn-danger pull-right" ng-click="">X</button>
+        </div>
+      </div>
+<!--
+
+      <h2>Monday</h2>
+
+
+      <div class="time-slot">
+        <input type="checkbox" id="monday-time">
+        <label for="monday-time">9:00am</label>
+      </div>
+    </div>
+    <div class="col-xs-4 center">
+      <h2>Tuesday</h2>
+      <div class="time-slot">
+       <input type="checkbox" id="tuesday-time">
+        <label for="tuesday-time">10:am</label>
+      </div>
+    </div>
+    <h2>Some data here</h2>
+     <ul ng-repeat="item in data.slot">
+      <li>Some text here{{item.time}}</li>
+    </ul>
+  </div>
+
+  <p class="text-center">
+    <a href="#" class="btn btn-primary" ng-click="reset()">Reset</a>
+  </p>
+-->
+
+</div>
+  </div>

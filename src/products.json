@@ -1,0 +1,454 @@
+[
+  {
+    "id": 1,
+    "name": "Ultrasonic Facial Treatment",
+    "detail": "An ultrasonic facialtreatmentis used to increase t",
+    "selected": 0,
+    "specs": [
+      {
+        "time": "60",
+        "price": "120"
+      },
+      {
+        "time": "90",
+        "price": "160"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Back and Neck Massage",
+    "detail": "Back, Shoulders, and Neck Massage: Quick Relief for the...",
+    "selected": 0,
+    "specs": [
+      {
+        "time": "30",
+        "price": "50"
+      },
+      {
+        "time": "60",
+        "price": "90"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Wellness Massage",
+    "detail": "This is a combination of h...",
+    "selected": 0,
+    "specs": [
+      {
+        "time": "60",
+        "price": "95"
+      },
+      {
+        "time": "90",
+        "price": "135"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Pure Breath Facial",
+    "detail": "This is a combination of h...",
+    "selected": 0,
+    "specs": [
+      {
+        "time": "60",
+        "price": "95"
+      },
+      {
+        "time": "90",
+        "price": "135"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Pure Breath Facial",
+    "detail": "This is a combination of h",
+    "selected": 0,
+    "specs": [
+      {
+        "time": "60",
+        "price": "95",
+        "type": "full"
+      },
+      {
+        "time": "90",
+        "price": "135",
+        "type": "full"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Pure Breath Facial Two",
+    "detail": "Oxygen infusion facial that smoothes the skin and rest...",
+    "selected": 0,
+    "specs": [
+      {
+        "time": "60",
+        "price": "100",
+        "type": " "
+      },
+      {
+        "time": "90",
+        "price": "135",
+        "type": " "
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Microdermabrasion",
+    "detail": "This is a procedure that uses fine crystals and a controlled vacuu...",
+    "selected": 0,
+    "specs": [
+      {
+        "time": "60",
+        "price": "85",
+        "type": " "
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Waxing",
+    "detail": "Waxing ...",
+    "selected": 0,
+    "specs": [
+      {
+        "time": "60",
+        "price": "15",
+        "type": "Brow"
+      },
+      {
+        "time": "60",
+        "price": "50",
+        "type": "Full arm"
+      },
+      {
+        "time": "60",
+        "price": "65",
+        "type": "Brazilian Bikini"
+      },
+      {
+        "time": "60",
+        "price": "45",
+        "type": "Half Leg"
+      },
+      {
+        "time": "60",
+        "price": "10",
+        "type": "Lip, chin, or cheek"
+      },
+      {
+        "time": "60",
+        "price": "10",
+        "type": "Nose, ear"
+      },
+      {
+        "time": "60",
+        "price": "50",
+        "type": "French Bikini"
+      },
+      {
+        "time": "60",
+        "price": "50",
+        "type": "Back"
+      },
+      {
+        "time": "60",
+        "price": "35",
+        "type": "Bikini"
+      },
+      {
+        "time": "60",
+        "price": "50",
+        "type": "Chest"
+      },
+      {
+        "time": "60",
+        "price": "75",
+        "type": "Full leg"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Signature Wellness Facial",
+    "detail": "A microdermabrasion and oxygen infusion facial microd...",
+    "selected": 0,
+    "specs": [
+      {
+        "time": "75",
+        "price": "150",
+        "type": " "
+      },
+      {
+        "time": " ",
+        "price": " ",
+        "type": " "
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Relaxation",
+    "detail": "A classic technique using therape...",
+    "selected": 0,
+    "specs": [
+      {
+        "time": "60",
+        "price": "85",
+        "type": " "
+      },
+      {
+        "time": "90",
+        "price": "125",
+        "type": " "
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Deep Tissue",
+    "detail": "A series of intensive techniques ..",
+    "selected": 0,
+    "specs": [
+
+      {
+        "time": "60",
+        "price": "85",
+        "type": " "
+      },
+      {
+        "time": "90",
+        "price": "125",
+        "type": " "
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Sport Massage",
+    "detail": "A must for pre- or post-workout flexibi...",
+    "selected": 0,
+    "specs": [
+      {
+        "time": "60",
+        "price": "85",
+        "type": " "
+      },
+      {
+        "time": "90",
+        "price": "125",
+        "type": " "
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Romancing the Stone",
+    "detail": "breakthrough technique to balance the body’s emoti...",
+    "selected": 0,
+    "specs": [
+      {
+        "time": " ",
+        "price": " ",
+        "type": " "
+      },
+      {
+        "time": "90",
+        "price": "125",
+        "type": " "
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Reflexology",
+    "detail": "This calm- inducing ancient Eastern technique uses pres...",
+    "selected": 0,
+    "specs": [
+      {
+        "time": "30",
+        "price": "50",
+        "type": " "
+      },
+      {
+        "time": " ",
+        "price": " ",
+        "type": " "
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Mini Vacation for Two",
+    "detail": "For budding lo...",
+    "selected": 0,
+    "specs": [
+      {
+        "time": "60",
+        "price": "75",
+        "type": "per a person"
+      },
+      {
+        "time": "90",
+        "price": "110",
+        "type": "per a person"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Thai Massage",
+    "detail": "Benefit from improved flexibility, relief from muscular...",
+    "selected": 0,
+    "specs": [
+      {
+        "time": "60",
+        "price": "85",
+        "type": " "
+      },
+      {
+        "time": " ",
+        "price": " ",
+        "type": " "
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Great Expectations",
+    "detail": "This soothing full-body ma..",
+    "selected": 0,
+    "specs": [
+      {
+        "time": "60",
+        "price": "85",
+        "type": " "
+      },
+      {
+        "time": "90",
+        "price": "125",
+        "type": " "
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Forever Young Facial",
+    "detail": "Advanced Resurfacing Stem Cell Facial..Give you exfoliation a professional boost with instant...",
+    "selected": 0,
+    "specs": [
+      {
+        "time": "75",
+        "price": "140",
+        "type": " "
+      },
+      {
+        "time": "",
+        "price": "",
+        "type": ""
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Clear Result Facial",
+    "detail": "Designed for the treatment of acne and other skin irrit..",
+    "selected": 0,
+    "specs": [
+      {
+        "time": "60",
+        "price": "75",
+        "type": " "
+      },
+      {
+        "time": "",
+        "price": "",
+        "type": ""
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Instant Glamour Facial",
+    "detail": "For the client whose time is precious.Face is clea...",
+    "selected": 0,
+    "specs": [
+      {
+        "time": "30",
+        "price": "50",
+        "type": " "
+      },
+      {
+        "time": "",
+        "price": "",
+        "type": ""
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "For Him Special",
+    "detail": "A specific treatment for men designed to relieve irrita...",
+    "selected": 0,
+    "specs": [
+      {
+        "time": "60",
+        "price": "75",
+        "type": " "
+      },
+      {
+        "time": "",
+        "price": "",
+        "type": ""
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Back Facial",
+    "detail": "Designed for the treatment of acne and other skin irrit...",
+    "selected": 0,
+    "specs": [
+      {
+        "time": "60",
+        "price": "75",
+        "type": " "
+      },
+      {
+        "time": "",
+        "price": "",
+        "type": ""
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Chemical Peels",
+    "detail": "We offer a variety of alpha and beta-hydroxy acid peeling a...",
+    "selected": 0,
+    "specs": [
+      {
+        "time": "30",
+        "price": "90",
+        "type": "version one"
+      },
+      {
+        "time": "60",
+        "price": "100",
+        "type": "version two"
+      },
+      {
+        "time": "90",
+        "price": "130",
+        "type": "version three"
+      }
+    ]
+  }
+]
